@@ -1,6 +1,6 @@
 # electrons
 
-Electrons is an academic project. It is programming assignment of the course "Evolution problems" taught at the [Ecole des Ponts Paristech](https://www.ecoledesponts.fr/) by Frédéric Legoll and Virginie Galland Ehrlacher.
+Electrons is an academic project. It is programming assignment of the course "Evolution problems" taught at the [Ecole des Ponts Paristech](https://www.ecoledesponts.fr/) by [Virginie Galland Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/) and [Frederic Legoll](http://cermics.enpc.fr/~legoll/)
 
 
 This course aims at introducing students to the mathematical and numerical study of partial differential equations modeling the evolution across time of a quantity of interest. Evolution problems are presents in a myriad of domains, both in the industry of within academic research, in  physics, chemistry, biology, finance ect

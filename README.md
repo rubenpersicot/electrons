@@ -14,7 +14,7 @@ The goals of this programming assignment are:
 The movement of electrons within a semiconductor material can be described as an eigen-value problem. The mathematical aspect of this problem is studied in the first part of the code. The second part of it is dedicated to the implementation of the [Finite Difference Method](https://en.wikipedia.org/wiki/Finite_difference_method) (FEM).
 ## Installation
 
-To check our project, you will need [anaconda](https://docs.anaconda.com/anaconda/install/index.html).
+To check the project, you will need [anaconda](https://docs.anaconda.com/anaconda/install/index.html).
 
 ## Usage 
 Simply run the jupyter notebook !
